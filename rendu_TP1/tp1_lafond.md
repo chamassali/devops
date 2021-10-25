@@ -3,22 +3,44 @@
 <br>
 ![](question3.JPG)
 <br>
-a. ![](q3_a.JPG)
 <br>
-b. ![](q3_b.JPG)
+a.
 <br>
-c. ![](q3_c.JPG)
+![](q3_a.JPG)
 <br>
-d. ![](q3_d.JPG)
 <br>
-e. ![](q3_e.JPG)
+b.
 <br>
-
+![](q3_b.JPG)
+<br>
+<br>
+c.
+<br>
+![](q3_c.JPG)
+<br>
+<br>
+d.
+<br>
+![](q3_d.JPG)
+<br>
+<br>
+e.
+<br> 
+![](q3_e.JPG)
+<br>
+<br>
 ![](question4.JPG)
 <br>
-a. ![](q4_a.JPG)
 <br>
-b. ![](q4_b.JPG)
+a.
+<br>
+![](q4_a.JPG)
+<br>
+<br>
+b.
+<br>
+![](q4_b.JPG)
+<br>
 <br>
 c. La méthode 4 est plus facilement transportable et fait tout les réglages d'un coup, il n'y a qu'a lancer le dockerfile
 <br>
